@@ -1,0 +1,5 @@
+{
+  "name": "US Interactive Map",
+  "description": "A lightweight, interactive SVG map of the United States that reveals cities upon clicking a state.",
+  "requestFramePermissions": []
+}
